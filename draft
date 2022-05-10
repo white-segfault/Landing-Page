@@ -1,0 +1,25 @@
+Some random scrap working Q/A by myself
+- for sec3, a div centered v+h direct
+- should we set length for the paragraph div?
+If default layout (justify content, align content center) sets up good layout,
+then probably don't need
+- for 2nd item just add margin
+- will jumping to next line work in the paragraph?
+- probs need to test it out
+works.
+
+- how to handle the quote, align end is too dodgy if set to full screen.
+try align center then go from there? (set margin)
+
+- different between margin and padding?
+probs need padding instead of margin, since no more elements to separate
+
+still kinda confused how it works.
+- adding padding on a parent container -> there is space between first element of box
+and top of container, bottom element of box and bottom of container, left/right res
+pectively.
+
+key is that words are also elements in terms of flex items
+
+- confused with why button expands
+probs the stretch for flex item
